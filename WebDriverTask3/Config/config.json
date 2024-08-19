@@ -1,0 +1,12 @@
+﻿{
+  "test": {
+    "url": "https://test.example.com",
+    "user": "testuser",
+    "password": "testpass"
+  },
+  "production": {
+    "url": "https://example.com",
+    "user": "produser",
+    "password": "prodpass"
+  }
+}
